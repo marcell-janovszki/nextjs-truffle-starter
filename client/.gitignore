@@ -4,10 +4,10 @@
 /node_modules/
 /.pnp
 .pnp.js
-*.secret.json
+
 
 # secrets
-
+*.secret.json
 
 # testing
 /coverage
